@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Елена Славина](https://up.htmlacademy.ru/htmlcss/18/user/385061).
-* Наставник:[Евгений Котов](https://up.htmlacademy.ru/htmlcss/18/user/25083).
+* Наставник: [Евгений Котов](https://up.htmlacademy.ru/htmlcss/18/user/25083).
 
 ---
 
